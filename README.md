@@ -1,4 +1,4 @@
-# Hi, I’m Juhi Kumari (@juhi2020)
+# Hi, I’m Juhi Kumari 
 
 👀 **I'm interested in**:  
 - Quality Assurance (QA) Testing  
