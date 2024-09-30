@@ -4,16 +4,6 @@
 - Quality Assurance (QA) Testing  
 - Software Development  
 
-
-🌱 **I'm currently learning**:  
-- Continuous Integration/Continuous Deployment (CI/CD)  
-- Microservices Architecture  
-- Docker and Containerization  
-
-💞️ **I'm looking to collaborate on**:  
-- Related to software testing and quality assurance  
-- Projects using Python, API testing with Postman, and SQL  
-
 📫 **How to reach me**:  
 - Email: r4.juhii@gmail.com  
 - LinkedIn: [My Profile](https://www.linkedin.com/in/juhi2020)  
