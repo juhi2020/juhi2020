@@ -14,13 +14,4 @@
 ⚡ **Fun fact**: Love hiking and photography!
 
 ---
-
-### Skills & Technologies  
-- **Languages**: Python, C,   
-- **Databases**: MS SQL Server, MySQL  
-- **Tools**: Selenium, Postman, JIRA, ADB, Git, GitHub  
-- **Frontend**: Node.js, Angular, HTML/CSS  
-- **OS**: Windows, Linux  
-
----
 Feel free to explore my repositories and projects! 😊
